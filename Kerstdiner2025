@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Feestgerecht & Muziek</title>
+</head>
+<body>
+  <h1>Welkom bij het kerstgerecht 🎄</h1>
+  <p>Geniet van dit gerecht met bijpassende muziek:</p>
+
+  <!-- Spotify embed -->
+  <iframe style="border-radius:12px"
+    src="https://open.spotify.com/embed/track/3n3Ppam7vgaVa1iaRUc9Lp?utm_source=generator"
+    width="100%" height="152" frameBorder="0" allowfullscreen=""
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
+
+  <!-- Extra link -->
+  <p><a href="https://jouwreceptpagina.nl">Bekijk het recept hier</a></p>
+</body>
+</html>
